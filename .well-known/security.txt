@@ -1,0 +1,5 @@
+Contact: mailto:contact@aysmartai.com
+Expires: 2027-07-04T00:00:00Z
+Preferred-Languages: en
+Canonical: https://aysmartai.com/.well-known/security.txt
+Policy: https://aysmartai.com/security-policy
